@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "310721171754",
+    "project_id": "pruebagoog-30cba"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310721171754:android:65c91e02ffe4210e",
+        "android_client_info": {
+          "package_name": "com.edwinacubillos.pruebagoog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310721171754-h2n74fntnm6to6cbr32af4qgsucud5qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edwinacubillos.pruebagoog",
+            "certificate_hash": "53E2FAC6A71DE8A94CB7AA8D9E11FE0DC29EF839"
+          }
+        },
+        {
+          "client_id": "310721171754-f60ja9m9mh0uas6jo1rae51kmd42dd09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI7e2W655R-YlBpo5IAzFsXooyb7o7XkA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

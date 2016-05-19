@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PruebaGoog</string>
+    <string name="server_client_id">310721171754-f60ja9m9mh0uas6jo1rae51kmd42dd09.apps.googleusercontent.com</string>
+    <string name="btnSignout">Cerrar Sesión</string>
+    <string name="signed_in_fmt">Usuario: %s</string>
+    <string name="signed_in_fmt2">Correo: %s</string>
+    <string name="signed_out">^_^</string>
+    <string name="signed_out2">...</string>
+    <string name="loading">Loading</string>
+</resources>
